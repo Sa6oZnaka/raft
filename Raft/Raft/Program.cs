@@ -51,12 +51,16 @@ namespace Raft
             int currentCapacity;
             for (int j = 0; j < steps; j++)
             {
+                Console.WriteLine("Capacity reset = 0");
+
                 currentCapacity = 0;
                 for (int i = 0; i < arr.Count(); i++)
                 {
+                    Console.WriteLine("Checking if goat fits");
                     // check if goat can fit
                     if (currentCapacity + arr[i] <= capacity)
                     {
+                        Console.WriteLine("goat can fit!");
                         currentCapacity += arr[i];
                         // remove goat
                         tempArray = tempArray.Where((source, index) => index != i).ToArray();

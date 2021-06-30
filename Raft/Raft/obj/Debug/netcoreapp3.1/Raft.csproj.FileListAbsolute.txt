@@ -1,0 +1,13 @@
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.exe
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.deps.json
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.runtimeconfig.json
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.runtimeconfig.dev.json
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.dll
+C:\Users\Alex\Desktop\raft\Raft\Raft\bin\Debug\netcoreapp3.1\Raft.pdb
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.AssemblyInfo.cs
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.dll
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.pdb
+C:\Users\Alex\Desktop\raft\Raft\Raft\obj\Debug\netcoreapp3.1\Raft.genruntimeconfig.cache
